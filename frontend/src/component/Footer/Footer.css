@@ -1,0 +1,19 @@
+.any{
+    color:blueviolet;
+}
+#change{
+    font-size :1.3rem;;
+}
+@media screen and (min-width: 350px) and (max-width: 600px){
+    #change{
+        font-size:5vw;
+        text-align: center;
+    }
+  }
+#lo{
+   
+        display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  
